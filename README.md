@@ -11,6 +11,8 @@ Shoutout to chatgpt for writing 99% of the code!
 I made this because I did not find any other way to bulk convert half width katakana to full width easily and in bulk. I am aware that this code is bad, but it works. 
 
 
-Before: ![before](https://github.com/Maltesaa/jp-sub-cleaner/assets/66385422/9e5123b9-0cab-46af-a267-c5671fa0176d)
+Before:![before](https://github.com/Maltesaa/jp-sub-cleaner/assets/66385422/c2c2fe7d-9b8f-4569-8714-d479080b69aa)
 
-After: ![after](https://github.com/Maltesaa/jp-sub-cleaner/assets/66385422/c92c7648-72eb-4e70-a9cd-322faa2f4158)
+
+After:![after](https://github.com/Maltesaa/jp-sub-cleaner/assets/66385422/4015ef4f-50fd-4d7c-a1a2-1fb35de92a27)
+
