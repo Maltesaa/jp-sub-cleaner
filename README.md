@@ -8,7 +8,7 @@ How to use:
 
 Shoutout to chatgpt for writing 99% of the code!
 
-I made this because I did not find any other way to bulk convert half width katakana to full width easily and in bulk. I am aware that this code is bad, but it works. 
+I made this because I did not find any other way to convert half width katakana to full width easily and in bulk. I am aware that this code is bad, but it works. 
 
 
 Before:![before](https://github.com/Maltesaa/jp-sub-cleaner/assets/66385422/c2c2fe7d-9b8f-4569-8714-d479080b69aa)
