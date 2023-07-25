@@ -1,5 +1,5 @@
 # jp-sub-cleaner
-Replaces half width katakana to full width and removes some unnecessary characters. I made this because I did not find any other way to convert half width katakana to full width easily and in bulk. I'm not a programmer and used ChatGPT for a lot of the code so it's probably not super optimal.
+Replaces half width katakana to full width and removes some unnecessary characters in .srt subtitle files. I made this because I did not find any other way to convert half width katakana to full width easily and in bulk. I'm not a programmer and used ChatGPT for a lot of the code so it's probably not super optimal.
 
 # How to use:
 1. Install Python
